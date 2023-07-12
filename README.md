@@ -37,6 +37,8 @@
 
 ![screenshot](https://raw.githubusercontent.com/JulianGT-2001/Gallery_Page_Challenge/main/Captura_pantalla_1.png)
 
+![screenshot](https://raw.githubusercontent.com/JulianGT-2001/Gallery_Page_Challenge/main/Captura_pantalla_2.png)
+
 La experiencia de este reto ha sido satisfactoria, he recordado conceptos basicos de HTML y CSS y he aplicado herramientas que no había usado antes como los son los media queries para realizar está pagina responsiva.
 
 ### Construido con
